@@ -1,7 +1,8 @@
-# Visit - https://www.TechWebDots.in for any Consulting.
-# You can also write us at admin@techwebdots.in or quickly contact us at +91-7303751089
-# Please rate us on Google https://g.page/SoftwareCoding?gm that will also be equal to cofee. ☕
-# Information Discussed in the session & Short notes for quick reference
+# Feedback
+1. Please rate us on Google https://g.page/SoftwareCoding?gm that will also be equal to cofee. ☕
+2. You can also write us at admin@techwebdots.in or quickly contact us at +91-7303751089
+3. Visit - https://www.TechWebDots.in for any Consulting.
+4. Information Discussed in the session & Short notes for quick reference given below
 
 # URLs
 https://www.python.org/
@@ -24,6 +25,6 @@ https://pypi.org/
 2. pip –version
 3. pip list # Listing installed packages
 4. pip freeze > requirements.txt
-4. python -m venv myvenv
-    A pop-up can come after above command "We noticed a new environment has been created. Do you want to select it for the workspace folder?" - Click Yes
-6. .\myvenv\Scripts\activate
+5. python -m venv myvenv
+6. A pop-up can come after above command "We noticed a new environment has been created. Do you want to select it for the workspace folder?" - Click Yes
+7. .\myvenv\Scripts\activate
